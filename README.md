@@ -1,4 +1,7 @@
-# 🎶 Whisper Mate - Batch local transcribe audio/movie to text with Whisper AI Model. Keep Privacy Safe!
+# ![screenshot](imgs/appicon-128x128.png) Whisper Mate - Batch local transcribe audio/movie to text with Whisper AI Model. Keep Privacy Safe!
+
+
+
 
 Download [the latest release from macOS appstore](https://apps.apple.com/us/app/id6450404233)
 
@@ -8,7 +11,7 @@ Features
 Whisper Mate support batch transcribe audio files or movie files into text with OpenAI's Whisper AI Model. With an embed subtitles editor to preview the transcription result segment by segment.   
 All transcribe operation is processing in local machine. Keep your privacy safe.   
 
-V3.5 Features
+## V3.5 Features
 - Add subtitles audio clip download feature. Now you can select any subtitles then use context menu to download it's audio clip, when selected multi-rows, it will auto merge into one audio clip.
 - Add tiny floating window style for realtime capture audio
 - Add Menubar context menu can quick start record stream to project with new floating window
@@ -27,7 +30,8 @@ V3.5 Features
 
 
 
-Features  
+## Features  
+
 - Transcribe audio or video files   
 - Support capture and transcribe audio in other app like (Zoom/Skype/Teams/Other App, macOS13.0+ Only & need Screen Recording Permission)   
 - Use DeepL free api translate subtitles  
@@ -55,7 +59,7 @@ Features
 - Support multi-language convert  
 - Support custom frequently use language for convert or translate
 
-Screenshots
+## Screenshots
 
 ![screenshot](imgs/App-Preview-1.webp)
 
