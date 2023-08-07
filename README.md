@@ -1,9 +1,11 @@
-# ![screenshot](imgs/appicon-128x128.png) Whisper Mate - Batch local transcribe audio/movie to text with Whisper AI Model. Keep Privacy Safe!
+# 🎶 Whisper Mate - Batch local transcribe audio/movie to text with Whisper AI Model. Keep Privacy Safe!
 
 
 
 
-Download [the latest release from macOS appstore](https://apps.apple.com/us/app/id6450404233)
+ Download [the latest release from macOS appstore](https://apps.apple.com/us/app/id6450404233)
+
+![screenshot](imgs/appicon-128x128.png)
 
 ## Features
 
