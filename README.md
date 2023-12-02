@@ -50,7 +50,6 @@ V5.4.1
 - Add javascript to use sync http request to get or post data (You can use it to post the subtitle row data to your local llm service to get inference fix result then fill back to origin subtitle, or post to other http/https  system service, load the http example from the javascript processor to see how to use it)
 - Fix denoise wav error when file path contain space char
 
-![image](/images/App-Preview-19.webp)
 
 V5.4
 ---
@@ -68,7 +67,6 @@ V5.4
 - Use chunks strategy to skip silent or non-transcribable segments.
 - Trim separately the segments that require transcription into individual files.
 
-![image](/images/App-Preview-18.webp)
 
 V5.3.1
 ---
