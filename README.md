@@ -5,7 +5,7 @@
 
  Download [the latest release from macOS appstore](https://apps.apple.com/us/app/id6450404233)
 
-![screenshot](imgs/appicon-128x128.png)
+![screenshot](images/appicon-128x128.png)
 
 ## Features
 
