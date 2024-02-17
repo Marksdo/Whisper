@@ -13,6 +13,79 @@ Features
 Whisper Mate support batch transcribe audio files or movie files into text with OpenAI's Whisper AI Model. With an embed subtitles editor to preview the transcription result segment by segment.   
 All transcribe operation is processing in local machine. Keep your privacy safe.   
 
+V5.5.1
+---
+- Fixed crash on automation translation when project finish
+- [148 MB](https://download.marksdo.com/apps/WhisperMate/V5.5.1/WhisperMate.dmg) 
+
+V5.5.0
+---
+- Add Deepgram nova-2 model option  
+- Add realtime transcribe float window support custom transparent percent  
+- Add realtime transcribe option show translated content only  
+- Add realtime float window custom style options (background color, font color)  
+- Fixed automation options not invoke when using deepgram transcribe engine  
+- Fixed realtime transcribe float window can't close sometime
+- [148 MB](https://download.marksdo.com/apps/WhisperMate/V5.5.0/WhisperMate.dmg) 
+
+V5.4.9
+---
+- Add batch export projects template feature, it can export the selected projects result into one file from template script
+- Bug fixes and performance improvements
+- [148 MB](https://download.marksdo.com/apps/WhisperMate/V5.4.9/WhisperMate.dmg) 
+![image](/imgs/V549.webp)
+
+V5.4.8
+---
+- Add privacy settings in main window bottom status bar, it can disable event analytics & crash report & local log
+- Add script example to delete rows that match conditions
+- Add script example to replace subtitle string like '(Music) * Music * [Music]'  to empty string
+- Add script write back property .memo .markWarn .warnMsg
+- Add previewer subtitle delay display option
+- Add batch modify subtitle start or end time in subtitle editor toolkit
+- Add (⇧)+←→ shortcut in subtitle editor to quick seek previewer jump 5 seconds or 30 seconds
+- Add speaker control bar and support quick set with shortcuts
+- Fixed previewer subtitle can't hidden issue
+- Fixed template editor can't cut text to clipboard & can't select by drag
+- Fixed export custom template .t0f5 .t0f4 .t0f2 time range format still return 3 digital number in millisecond
+- [148 MB](https://download.marksdo.com/apps/WhisperMate/V5.4.8/WhisperMate.dmg) 
+
+V5.4.7
+---
+- Add auto start project option when file added to project list (toggle is on main window bottom statusbar)
+- Add automation step of auto export file to custom folder
+- Add automation step to mail result to your mailbox (It can auto use previous auto export result as attachment)
+- Upgrade the template & javascript editor to fix crash issues
+- [148 MB](https://download.marksdo.com/apps/WhisperMate/V5.4.7/WhisperMate.dmg) 
+![image](/imgs/V547.webp)
+
+V5.4.6
+---
+- Add media preview subtitle layout option, source transcript & translated subtitle can control display up or down side.
+- Add large v3 coreml model
+- Add shortcut ⌘+⌥+f or double tap preview to quick switch to fullscreen
+- Some shortcuts now support press single char to fire (merge,split,tune)
+- After merge subtitle now auto selected the first merge row
+- Canceled bind default open app with whisper mate for audio and video files
+- Fixed some crash bug in V5.4.5
+- Fixed notification display issue
+- Fixed some translate issue
+- [123 MB](https://download.marksdo.com/apps/WhisperMate/V5.4.6/WhisperMate.zip) 
+
+![image](/imgs/V546.webp)
+
+V5.4.5
+---
+- ❗Universal Version may need to download again. Cause i upgrade my development device, And forget to save the Universal deployment EDKey.
+- Add automation feature to exec jobs when project transcribe finish (Merge repeats/Snapshot/Script/Translate)
+- Add max segment length transcribe option
+- Add model prompt examples.
+- Add replace to with char '\\n' (single slash with char n) to new line in replace feature
+- Upgrade project transcribe options config interface.
+- [122 MB](https://download.marksdo.com/apps/WhisperMate/V5.4.5/WhisperMate.zip) 
+
+![image](/imgs/V545.webp)
+
 V5.4.4
 ---
 - Add model cloud list in model config panel with 2 download host support. (Change to host2 if you can't download it in host1)
