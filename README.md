@@ -1,15 +1,32 @@
+# README.md
+- [Deutsch](README.de.md)
+- [English](README.md)
+- [Spanish](README.es.md)
+- [Finnish](README.fi.md)
+- [French](README.fr.md)
+- [Italian](README.it.md)
+- [Indonesian](README.id.md)
+- [언어](README.ko.md)
+- [日本語](README.ja.md)
+- [简体中文](README.zh_cn.md)
+- [繁体中文](README.zh_tw.md)
+- [Norwegian](README.nb.md)
+- [Dutch](README.nl.md)
+- [Polish](README.pl.md)
+- [Portuguese](README.pt_PT.md)
+- [Swedish](README.sv.md)
+- [ภาษาไทย](README.th.md)
+- [Turkish](README.tr.md)
+- [Ukrainian](README.uk.md)
+- [Vietnamese](README.vi.md)
+
 # 🎶 Whisper Mate - Batch local transcribe audio/movie to text with Whisper AI Model. Keep Privacy Safe!
-
-
-
 
  Download [the latest release from macOS appstore](https://apps.apple.com/us/app/id6450404233)
 
 ![screenshot](images/appicon-128x128.png)
 
 ## Features
-
-Features
 Whisper Mate support batch transcribe audio files or movie files into text with OpenAI's Whisper AI Model. With an embed subtitles editor to preview the transcription result segment by segment.   
 All transcribe operation is processing in local machine. Keep your privacy safe.   
 
