@@ -1,3 +1,25 @@
+# README.md
+- [Deutsch](README.de.md)
+- [English](README.md)
+- [Spanish](README.es.md)
+- [Finnish](README.fi.md)
+- [French](README.fr.md)
+- [Italian](README.it.md)
+- [Indonesian](README.id.md)
+- [언어](README.ko.md)
+- [日本語](README.ja.md)
+- [简体中文](README.zh_cn.md)
+- [繁体中文](README.zh_tw.md)
+- [Norwegian](README.nb.md)
+- [Dutch](README.nl.md)
+- [Polish](README.pl.md)
+- [Portuguese](README.pt_PT.md)
+- [Swedish](README.sv.md)
+- [ภาษาไทย](README.th.md)
+- [Turkish](README.tr.md)
+- [Ukrainian](README.uk.md)
+- [Vietnamese](README.vi.md)
+
 # 🎶 Whisper Mate: Batch transcribe local de audio/películas a texto con el modelo de IA Whisper. ¡Mantén tu privacidad segura!
 
 Descarga [la última versión desde la App Store de macOS](https://apps.apple.com/us/app/id6450404233)
