@@ -33,7 +33,7 @@ V5.4.9
 - Add batch export projects template feature, it can export the selected projects result into one file from template script
 - Bug fixes and performance improvements
 - [148 MB](https://download.marksdo.com/apps/WhisperMate/V5.4.9/WhisperMate.dmg) 
-![image](/imgs/V549.webp)
+![image](/images/V549.webp)
 
 V5.4.8
 ---
@@ -57,7 +57,7 @@ V5.4.7
 - Add automation step to mail result to your mailbox (It can auto use previous auto export result as attachment)
 - Upgrade the template & javascript editor to fix crash issues
 - [148 MB](https://download.marksdo.com/apps/WhisperMate/V5.4.7/WhisperMate.dmg) 
-![image](/imgs/V547.webp)
+![image](/images/V547.webp)
 
 V5.4.6
 ---
@@ -72,7 +72,7 @@ V5.4.6
 - Fixed some translate issue
 - [123 MB](https://download.marksdo.com/apps/WhisperMate/V5.4.6/WhisperMate.zip) 
 
-![image](/imgs/V546.webp)
+![image](/images/V546.webp)
 
 V5.4.5
 ---
@@ -84,7 +84,7 @@ V5.4.5
 - Upgrade project transcribe options config interface.
 - [122 MB](https://download.marksdo.com/apps/WhisperMate/V5.4.5/WhisperMate.zip) 
 
-![image](/imgs/V545.webp)
+![image](/images/V545.webp)
 
 V5.4.4
 ---
@@ -278,34 +278,34 @@ V4.0
 
 ## Screenshots
 
-![screenshot](imgs/App-Preview-1.webp)
+![screenshot](images/App-Preview-1.webp)
 
-![screenshot1](imgs/App-Preview-2.webp)
+![screenshot1](images/App-Preview-2.webp)
 
-![screenshot2](imgs/App-Preview-3.webp)
+![screenshot2](images/App-Preview-3.webp)
 
-![screenshot3](imgs/App-Preview-4.webp)
+![screenshot3](images/App-Preview-4.webp)
 
-![screenshot4](imgs/App-Preview-5.webp)
+![screenshot4](images/App-Preview-5.webp)
 
-![screenshot5](imgs/App-Preview-6.webp)
+![screenshot5](images/App-Preview-6.webp)
 
-![screenshot6](imgs/App-Preview-7.webp)
+![screenshot6](images/App-Preview-7.webp)
 
-![screenshot7](imgs/App-Preview-8.webp)
+![screenshot7](images/App-Preview-8.webp)
 
-![screenshot8](imgs/App-Preview-9.webp)
+![screenshot8](images/App-Preview-9.webp)
 
-![screenshot10](imgs/App-Preview-10.webp)
+![screenshot10](images/App-Preview-10.webp)
 
-![screenshot11](imgs/App-Preview-11.webp)
+![screenshot11](images/App-Preview-11.webp)
 
-![screenshot12](imgs/App-Preview-12.webp)
+![screenshot12](images/App-Preview-12.webp)
 
-![screenshot13](imgs/App-Preview-13.webp)
+![screenshot13](images/App-Preview-13.webp)
 
-![screenshot14](imgs/App-Preview-14.webp)
+![screenshot14](images/App-Preview-14.webp)
 
-![screenshot15](imgs/App-Preview-15.webp)
+![screenshot15](images/App-Preview-15.webp)
 
-![screenshot16](imgs/App-Preview-16.webp)
+![screenshot16](images/App-Preview-16.webp)
