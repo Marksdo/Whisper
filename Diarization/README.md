@@ -20,3 +20,7 @@ You also can manual paste the pyannote result to Whisper Mate then press parse t
 
 
 > use replace feature to batch replace  @Speaker_01 to Sam 
+
+
+# Steps Video
+
