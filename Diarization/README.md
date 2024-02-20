@@ -1,4 +1,4 @@
-# Integrate Pyannote
+# 🗣️ Integrate Pyannote (Beta)
 Whisper Mate 5.5.2 start to support pyannote (https://github.com/pyannote/pyannote-audio)
 Cause the macos sandbox app permission issue, You need manual do some steps to use it as diarization in Whisper Mate
 
@@ -22,5 +22,5 @@ You also can manual paste the pyannote result to Whisper Mate then press parse t
 > use replace feature to batch replace  @Speaker_01 to Sam 
 
 
-# Steps Video
+# 🎬 Steps Video
 
