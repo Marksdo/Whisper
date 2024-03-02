@@ -8,6 +8,12 @@ Cause the macos sandbox app permission issue, You need manual do some steps to u
 - Set an sync folder to auto export pyannote needed audio.wav file
 - Place the pyannote.py to step-1 folder
 - edit pyannote.py change use_auth_token to your huggingface api token
+- 
+```python
+pipeline = Pipeline.from_pretrained(
+    "pyannote/speaker-diarization-3.1",
+    use_auth_token="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX") # please follow the pyannote github to get your huggingface api auth token https://github.com/pyannote/pyannote-audio
+```
 
 below steps is copy from pyannote project how to get hf access token
 ```
