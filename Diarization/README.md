@@ -7,6 +7,16 @@ Cause the macos sandbox app permission issue, You need manual do some steps to u
 # First time use setup
 - Set an sync folder to auto export pyannote needed audio.wav file
 - Place the pyannote.py to step-1 folder
+- edit pyannote.py change use_auth_token to your huggingface api token
+
+below steps is copy from pyannote project how to get hf access token
+```
+Install pyannote.audio with pip install pyannote.audio
+Accept pyannote/segmentation-3.0 user conditions
+Accept pyannote/speaker-diarization-3.1 user conditions
+Create access token at hf.co/settings/tokens.
+```
+
 
 ![pyannote](folder.png)
 
