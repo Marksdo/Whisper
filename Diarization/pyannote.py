@@ -10,7 +10,7 @@ pipeline = Pipeline.from_pretrained(
 
 import sys
 import torch
-pipeline.to(torch.device("mps"))
+pipeline.to(torch.device("mps")) # if not Apple M chip device change 'mps' to 'cpu'
 
 wav = str(sys.argv[1])
 waveform, sample_rate = torchaudio.load(wav)

@@ -1,31 +1,59 @@
-# 🗣️ Integrate Pyannote (Beta)
+# 🗣️ Integrate Pyannote
 Whisper Mate 5.5.2 start to support pyannote (https://github.com/pyannote/pyannote-audio)
 Cause the macos sandbox app permission issue, You need manual do some steps to use it as diarization in Whisper Mate
 
 ![config](config.png)
 
-# First time use setup
-- Set an sync folder to auto export pyannote needed audio.wav file
-- Place the pyannote.py to step-1 folder
-- edit pyannote.py change use_auth_token to your huggingface api token
+# Install conda python env
+You can skip installing Conda and directly install the dependencies of pyannote in your system's Python environment, but it is not recommended to do so.
 
-```python
-pipeline = Pipeline.from_pretrained(
-    "pyannote/speaker-diarization-3.1",
-    use_auth_token="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX") # please follow the pyannote github to get your huggingface api auth token https://github.com/pyannote/pyannote-audio
+visit https://docs.anaconda.com/free/miniconda/ to download conda install shell
+if x86-64 download https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
+if Apple M chic download https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh
+
+open shell window
+```sh
+chmod +x Miniconda3-latest-MacOSX-arm64.sh
+./Miniconda3-latest-MacOSX-arm64.sh
+
+enter yes accept license and yes to insert init config code in shell
 ```
 
-below steps is copy from pyannote project how to get hf access token
-```
-Install pyannote.audio with pip install pyannote.audio
-Accept pyannote/segmentation-3.0 user conditions
-Accept pyannote/speaker-diarization-3.1 user conditions
-Create access token at hf.co/settings/tokens.
+open new terminal tab
+```sh
+conda create --name whispermate python=3.11
+conda activate whispermate
+conda install pytorch torchvision
+pip install pyannote.audio
 ```
 
+# Make Whisper Mate working folder
+```
+cd ~
+mkdir whispermate
+cd whispermate
+curl -o pyannote.py https://raw.githubusercontent.com/Marksdo/Whisper/main/Diarization/pyannote.py
+curl -o test.wav https://raw.githubusercontent.com/Marksdo/Whisper/main/Diarization/test.wav
+```
+
+# Get your own huggingface api token
+1. Accept [`pyannote/segmentation-3.0`](https://hf.co/pyannote/segmentation-3.0) user conditions
+2. Accept [`pyannote/speaker-diarization-3.1`](https://hf.co/pyannote/speaker-diarization-3.1) user conditions
+3. Create access token at [`hf.co/settings/tokens`](https://hf.co/settings/tokens).
+
+edit `pyannote.py` change `use_auth_token=xxxxxxxxxxxxxxxxx` to your huggingface api token then save
+if you device is not M Chip change `pipeline.to(torch.device("mps"))` to `pipeline.to(torch.device("cpu"))`
+
+# Test pyannote running
+```sh
+cd ~/whispermate
+python pyannote.py test.wav
+```
+
+# Connect Whiser Mate & pyannote settings
+- Set an sync folder to auto export pyannote needed audio.wav file (select previous ~/whispermate folder)
 
 ![pyannote](folder.png)
-
 
 # Every project manual exec
 - When project added to Whisper Mate after start process, copy the shell command to exec it in terminal (or use project list context menu copy)
