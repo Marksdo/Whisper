@@ -50,6 +50,8 @@ cd ~/whispermate
 python pyannote.py test.wav
 ```
 
+![result](result.png)
+
 # Connect Whiser Mate & pyannote settings
 - Set an sync folder to auto export pyannote needed audio.wav file (select previous ~/whispermate folder)
 
