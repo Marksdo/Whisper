@@ -57,6 +57,10 @@ python pyannote.py test.wav
 
 ![pyannote](folder.png)
 
+if using manual strategy, use main project list's context menu to invoke output project's wav to ~/whispermate folder
+
+![context-menu](contextmenu.png)
+
 # Every project manual exec
 - When project added to Whisper Mate after start process, copy the shell command to exec it in terminal (or use project list context menu copy)
 ```sh
