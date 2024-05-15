@@ -6,7 +6,7 @@ Cause the macos sandbox app permission issue, You need manual do some steps to u
 
 # Install conda python env
 You can skip installing Conda and directly install the dependencies of pyannote in your system's Python environment, but it is not recommended to do so.
-
+> ref https://developer.apple.com/metal/pytorch/
 visit https://docs.anaconda.com/free/miniconda/ to download conda install shell
 if x86-64 download https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
 if Apple M chic download https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh
