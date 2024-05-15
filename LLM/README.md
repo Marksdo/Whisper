@@ -31,7 +31,9 @@ AI Role is predefined process role, use it to quick convert transcribed text to 
 > Translator role is use ai as translate service, each rows will send to ai to get translated text, then use script to write back response text to translated column
 
 # Instructions
-The role instruction can give high level instructions for the conversation.\nYou can also use a system level instruction to guide your model's behavior throughout the conversation. 
+The role instruction can give high level instructions for the conversation.
+
+You can also use a system level instruction to guide your model's behavior throughout the conversation. 
 
 # Message Template
 Each time you call your prefined role, will use instructions and Message Template to generate chat request.
