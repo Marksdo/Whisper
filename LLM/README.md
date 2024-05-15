@@ -8,6 +8,12 @@
 - In common project let LLM as translator
 - ... more
 
+
+# LLM Plugin
+LLM relate feature is an plugin feature, most user no need to active it. It need AI experience and little program skill.
+![plugin](plugin.png)
+
+
 # LLM Connection
 llm api format must use openai http format, if the llm is not openai, use [litellm](https://github.com/BerriAI/litellm) to proxy it to openai-chatgpt request format
 ![connect](connect.png)
@@ -39,3 +45,5 @@ Often used ai role you can set it to quick access, then quick invoke it from sub
 
 ![quickaccess](quickaccess.png)
 
+# Use in realtime stream 
+![streamllm](streamllm.png)
