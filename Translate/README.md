@@ -10,7 +10,9 @@ https://github.com/BerriAI/litellm
 
 ![gpt1](gpt1.png)
 
-```example
+example instructions code, you can use your language to set the prompt
+
+```
 You are an expert in English-Korean translation and need to translate a text that has been transcribed from speech. I will provide you with the full transcription for reference. Please provide better adaptability in translating the information based on the content of the full transcription. You only need to reply with the translated content. 
 Here is the full transcription:
 
