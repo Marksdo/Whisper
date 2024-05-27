@@ -10,7 +10,7 @@ https://github.com/BerriAI/litellm
 
 ![gpt1](gpt1.png)
 
-example instructions code, you can use your language to set the prompt
+example instructions code
 
 ```
 You are an expert in English-Korean translation and need to translate a text that has been transcribed from speech. I will provide you with the full transcription for reference. Please provide better adaptability in translating the information based on the content of the full transcription. You only need to reply with the translated content. 
@@ -52,4 +52,15 @@ it use the sample template engine use in custom export template feature, so more
 
 ![gpt-test](gpt-test.png)
 
-@todo finish test description
+### test - Hello world
+just test is connect gpt success
+
+### test - template
+use current project and selected subtitle row to test template result.
+
+
+## GPT Result
+
+![gpt-result](gpt-result.png)
+
+when result write to source column, if result is difference with origin source text, the origin source will save backup to memo column, and make column an changed mark.
