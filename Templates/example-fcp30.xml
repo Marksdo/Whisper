@@ -1,0 +1,58 @@
+{%- setvar 30 $fcpName -%}
+{%- setvar 100 $fr1s -%}
+{%- setvar 30 $frds -%}
+{%- setvar "3000s" $frhs -%}
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fcpxml>
+<fcpxml version="1.9">
+  <resources>
+    <format id="r1" name="FFVideoFormat1080p{{$fcpName}}" frameDuration="1/{{$frds}}s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)"/>
+    <effect id="r2" name="Basic Title" uid=".../Titles.localized/Bumper:Opener.localized/Basic Title.localized/Basic Title.moti"/>
+  </resources>
+  <library>
+    <event name="{{ projectName }}" uid="{{ 32|rand }}">
+      <project name="{{ projectName }}" uid="{{ 32|rand }}" modDate="2023-08-25 04:43:49 +0000">
+       {%- setvar durationSegLatest|div:1000|m:$frds|round:-1|m:$fr1s durationFCPSRT %}
+        <sequence format="r1" duration="{{ durationFCPSRT }}/{{$frhs}}" tcStart="0/{{$frds}}s" tcFormat="NDF" audioLayout="stereo" audioRate="48k">
+          <spine>
+            <gap name="Gap" offset="0s" start="0s" duration="{{ durationFCPSRT }}/{{$frhs}}">
+                {%- for st in subtitles -%}
+          {%- setvar st.t0ss|m:$frds|round:-1|m:$fr1s st0fcps -%}
+          {%- setvar st.t1ss|m:$frds|round:-1|m:$fr1s st1fcps -%}
+          {%- setvar st.tdss|m:$frds|round:-1|m:$fr1s stdfcps -%}
+          {%- setvar st1fcps|minus:st0fcps st10fcps %}
+              <title ref="r2" lane="1" name="{{ st.text|escXML }} - Basic Title" offset="{{st0fcps}}/{{$frhs}}" start="{{st0fcps}}/{{$frhs}}" duration="{{stdfcps}}/{{$frhs}}">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts{{ st.idx1 }}">{{ st.text|escXML }}</text-style>
+                </text>
+                <text-style-def id="ts{{ st.idx1 }}">
+                  <text-style font="Helvetica" fontSize="60" fontFace="Regular" fontColor="1 1 1 1" alignment="center"/>
+                </text-style-def>
+              </title>
+             {% endfor %}
+            </gap>
+          </spine>
+        </sequence>
+      </project>
+    </event>
+    <smart-collection name="Projects" match="all">
+      <match-clip rule="is" type="project"/>
+    </smart-collection>
+    <smart-collection name="All Video" match="any">
+      <match-media rule="is" type="videoOnly"/>
+      <match-media rule="is" type="videoWithAudio"/>
+    </smart-collection>
+    <smart-collection name="Audio Only" match="all">
+      <match-media rule="is" type="audioOnly"/>
+    </smart-collection>
+    <smart-collection name="Stills" match="all">
+      <match-media rule="is" type="stills"/>
+    </smart-collection>
+    <smart-collection name="Favorites" match="all">
+      <match-ratings value="favorites"/>
+    </smart-collection>
+  </library>
+</fcpxml>
