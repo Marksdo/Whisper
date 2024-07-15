@@ -18,6 +18,8 @@ LLM relate feature is an plugin feature, most user no need to active it. It need
 llm api format must use openai http format, if the llm is not openai, use [litellm](https://github.com/BerriAI/litellm) to proxy it to openai-chatgpt request format
 ![connect](connect.png)
 
+[🦙Ollama & Litellm step by step](ConnectLitellm.md)
+
 # AI Role
 AI Role is predefined process role, use it to quick convert transcribed text to formated text then send to ai, it also can use script to process ai response text then write back to origin subtitle row
 
