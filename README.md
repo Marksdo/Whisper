@@ -36,19 +36,19 @@
 - Compliance-ready customer support, sales, or legal recordings with high-quality audit trails.
 
 
-## 📋 Advanced Resource Guide
-- **FAQ & tips**: [Coming soon]
-- **Custom export templates**: [Coming soon]
-- **LLM integrations (summaries, QA, fixes)**: [Coming soon]
-- **Exporting subtitled videos**: [Coming soon]
-- **Directory monitoring & auto-transcribe**: [Coming soon]
-- **Real-time transcription**: [Coming soon]
-- **Segment re-transcription**: [Coming soon]
-- **Preset management**: [Coming soon]
-- **Dictionary workflows**: [Coming soon]
-- **Snapshot best practices**: [Coming soon]
-- **Multi-project management & search**: [Coming soon]
-- **Fully automated workflow examples**: [Coming soon]
+## 📋 Docs
+- [FAQ & tips](docs/faq-and-tips.md)
+- [Custom export templates](docs/custom-export-templates.md)
+- [LLM integrations (summaries, QA, fixes)](docs/llm-integrations.md)
+- [Exporting subtitled videos](docs/exporting-subtitled-videos.md)
+- [Directory monitoring & auto-transcribe](docs/directory-monitoring.md)
+- [Real-time transcription](docs/real-time-transcription.md)
+- [Segment re-transcription](docs/segment-retranscription.md)
+- [Preset management](docs/preset-management.md)
+- [Dictionary workflows](docs/dictionary-workflows.md)
+- [Snapshot best practices](docs/snapshot-best-practices.md)
+- [Multi-project management & search](docs/multi-project-management.md)
+- [Fully automated workflow examples](docs/fully-automated-workflows.md)
 
 
 ## 💬 Support & Feedback
