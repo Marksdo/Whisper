@@ -32,18 +32,18 @@
 - Nagrania wsparcia klienta, sprzedaży czy prawne spełniające wymogi compliance z wysokiej jakości ścieżką audytu.
 
 ## 📋 Zaawansowany przewodnik po zasobach
-- **FAQ i wskazówki**: [Wkrótce]
-- **Niestandardowe szablony eksportu**: [Wkrótce]
-- **Integracje LLM (streszczenia, QA, poprawki)**: [Wkrótce]
-- **Eksport wideo z napisami**: [Wkrótce]
-- **Monitorowanie katalogów i auto-transkrypcja**: [Wkrótce]
-- **Transkrypcja w czasie rzeczywistym**: [Wkrótce]
-- **Ponowna transkrypcja segmentów**: [Wkrótce]
-- **Zarządzanie presetami**: [Wkrótce]
-- **Workflow ze słownikami**: [Wkrótce]
-- **Najlepsze praktyki dla snapshotów**: [Wkrótce]
-- **Zarządzanie wieloma projektami i wyszukiwanie**: [Wkrótce]
-- **Przykłady w pełni zautomatyzowanych workflow**: [Wkrótce]
+- [FAQ i wskazówki](../docs/faq-and-tips.md)
+- [Niestandardowe szablony eksportu](../docs/custom-export-templates.md)
+- [Integracje LLM (streszczenia, QA, poprawki)](../docs/llm-integrations.md)
+- [Eksport wideo z napisami](../docs/exporting-subtitled-videos.md)
+- [Monitorowanie katalogów i auto-transkrypcja](../docs/directory-monitoring.md)
+- [Transkrypcja w czasie rzeczywistym](../docs/real-time-transcription.md)
+- [Ponowna transkrypcja segmentów](../docs/segment-retranscription.md)
+- [Zarządzanie presetami](../docs/preset-management.md)
+- [Workflow ze słownikami](../docs/dictionary-workflows.md)
+- [Najlepsze praktyki dla snapshotów](../docs/snapshot-best-practices.md)
+- [Zarządzanie wieloma projektami i wyszukiwanie](../docs/multi-project-management.md)
+- [Przykłady w pełni zautomatyzowanych workflow](../docs/fully-automated-workflows.md)
 
 ## 💬 Wsparcie i opinie
 - Prześlij opinię z menu **About** w aplikacji lub utwórz zgłoszenie na GitHubie, abyśmy mogli wspólnie śledzić postępy.

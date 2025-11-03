@@ -32,18 +32,18 @@
 - Compliance-fähige Kundenservice-, Vertriebs- oder Rechtsaufnahmen mit hochwertigen Audit-Trails.
 
 ## 📋 Erweiterter Ressourcenleitfaden
-- **FAQ & Tipps**: [Demnächst verfügbar]
-- **Vorlagen für benutzerdefinierte Exporte**: [Demnächst verfügbar]
-- **LLM-Integrationen (Zusammenfassungen, QA, Fixes)**: [Demnächst verfügbar]
-- **Export von Videos mit Untertiteln**: [Demnächst verfügbar]
-- **Verzeichnisüberwachung & Auto-Transkription**: [Demnächst verfügbar]
-- **Echtzeit-Transkription**: [Demnächst verfügbar]
-- **Segment-Neutranskription**: [Demnächst verfügbar]
-- **Preset-Verwaltung**: [Demnächst verfügbar]
-- **Wörterbuch-Workflows**: [Demnächst verfügbar]
-- **Snapshot Best Practices**: [Demnächst verfügbar]
-- **Multi-Projekt-Management & Suche**: [Demnächst verfügbar]
-- **Vollautomatische Workflow-Beispiele**: [Demnächst verfügbar]
+- [FAQ & Tipps](../docs/faq-and-tips.md)
+- [Vorlagen für benutzerdefinierte Exporte](../docs/custom-export-templates.md)
+- [LLM-Integrationen (Zusammenfassungen, QA, Fixes)](../docs/llm-integrations.md)
+- [Export von Videos mit Untertiteln](../docs/exporting-subtitled-videos.md)
+- [Verzeichnisüberwachung & Auto-Transkription](../docs/directory-monitoring.md)
+- [Echtzeit-Transkription](../docs/real-time-transcription.md)
+- [Segment-Neutranskription](../docs/segment-retranscription.md)
+- [Preset-Verwaltung](../docs/preset-management.md)
+- [Wörterbuch-Workflows](../docs/dictionary-workflows.md)
+- [Snapshot Best Practices](../docs/snapshot-best-practices.md)
+- [Multi-Projekt-Management & Suche](../docs/multi-project-management.md)
+- [Vollautomatische Workflow-Beispiele](../docs/fully-automated-workflows.md)
 
 ## 💬 Support & Feedback
 - Sende Feedback über das in der App integrierte **About**-Menü oder eröffne ein Issue auf GitHub, damit wir Fortschritte gemeinsam nachverfolgen können.

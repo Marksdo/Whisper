@@ -32,18 +32,18 @@
 - Rekaman dukungan pelanggan, penjualan, atau hukum yang patuh dengan jejak audit berkualitas tinggi.
 
 ## 📋 Panduan sumber daya lanjutan
-- **FAQ & tips**: [Segera hadir]
-- **Templat ekspor kustom**: [Segera hadir]
-- **Integrasi LLM (ringkasan, QA, perbaikan)**: [Segera hadir]
-- **Ekspor video bertakarir**: [Segera hadir]
-- **Pemantauan direktori & transkripsi otomatis**: [Segera hadir]
-- **Transkripsi real-time**: [Segera hadir]
-- **Retranskripsi segmen**: [Segera hadir]
-- **Manajemen preset**: [Segera hadir]
-- **Alur kerja kamus**: [Segera hadir]
-- **Praktik terbaik snapshot**: [Segera hadir]
-- **Manajemen multi-proyek & pencarian**: [Segera hadir]
-- **Contoh alur kerja sepenuhnya otomatis**: [Segera hadir]
+- [FAQ & tips](../docs/faq-and-tips.md)
+- [Templat ekspor kustom](../docs/custom-export-templates.md)
+- [Integrasi LLM (ringkasan, QA, perbaikan)](../docs/llm-integrations.md)
+- [Ekspor video bertakarir](../docs/exporting-subtitled-videos.md)
+- [Pemantauan direktori & transkripsi otomatis](../docs/directory-monitoring.md)
+- [Transkripsi real-time](../docs/real-time-transcription.md)
+- [Retranskripsi segmen](../docs/segment-retranscription.md)
+- [Manajemen preset](../docs/preset-management.md)
+- [Alur kerja kamus](../docs/dictionary-workflows.md)
+- [Praktik terbaik snapshot](../docs/snapshot-best-practices.md)
+- [Manajemen multi-proyek & pencarian](../docs/multi-project-management.md)
+- [Contoh alur kerja sepenuhnya otomatis](../docs/fully-automated-workflows.md)
 
 ## 💬 Dukungan & masukan
 - Kirim masukan melalui menu **About** di aplikasi atau buka issue di GitHub agar kami dapat melacak kemajuan bersama.

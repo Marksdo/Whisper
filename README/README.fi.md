@@ -32,18 +32,18 @@
 - Sääntelyä noudattava asiakastuki, myynti tai oikeudelliset tallenteet korkealaatuisilla auditointijäljillä.
 
 ## 📋 Laajennettu resurssiopas
-- **UKK ja vinkit**: [Tulossa pian]
-- **Mukautetut vientimallit**: [Tulossa pian]
-- **LLM-integraatiot (tiivistelmät, QA, korjaukset)**: [Tulossa pian]
-- **Tekstitettyjen videoiden vienti**: [Tulossa pian]
-- **Hakemistojen valvonta ja automaattitekstitys**: [Tulossa pian]
-- **Reaaliaikainen tekstitys**: [Tulossa pian]
-- **Segmenttien uudelleentekstitys**: [Tulossa pian]
-- **Esiasetusten hallinta**: [Tulossa pian]
-- **Sanakirjatyönkulut**: [Tulossa pian]
-- **Snapshotien parhaat käytännöt**: [Tulossa pian]
-- **Moniprojektihallinta ja haku**: [Tulossa pian]
-- **Täysin automatisoidut työnkulku-esimerkit**: [Tulossa pian]
+- [UKK ja vinkit](../docs/faq-and-tips.md)
+- [Mukautetut vientimallit](../docs/custom-export-templates.md)
+- [LLM-integraatiot (tiivistelmät, QA, korjaukset)](../docs/llm-integrations.md)
+- [Tekstitettyjen videoiden vienti](../docs/exporting-subtitled-videos.md)
+- [Hakemistojen valvonta ja automaattitekstitys](../docs/directory-monitoring.md)
+- [Reaaliaikainen tekstitys](../docs/real-time-transcription.md)
+- [Segmenttien uudelleentekstitys](../docs/segment-retranscription.md)
+- [Esiasetusten hallinta](../docs/preset-management.md)
+- [Sanakirjatyönkulut](../docs/dictionary-workflows.md)
+- [Snapshotien parhaat käytännöt](../docs/snapshot-best-practices.md)
+- [Moniprojektihallinta ja haku](../docs/multi-project-management.md)
+- [Täysin automatisoidut työnkulku-esimerkit](../docs/fully-automated-workflows.md)
 
 ## 💬 Tuki ja palaute
 - Lähetä palautetta sovelluksen **About**-valikosta tai avaa issue GitHubissa, jotta voimme seurata edistystä yhdessä.

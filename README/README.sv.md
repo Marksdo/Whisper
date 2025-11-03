@@ -32,18 +32,18 @@
 - Kundsupport-, sälj- eller juridikinspelningar som kräver efterlevnad och revisionsspår av hög kvalitet.
 
 ## 📋 Avancerad resursguide
-- **FAQ & tips**: [Kommer snart]
-- **Anpassade exportmallar**: [Kommer snart]
-- **LLM-integrationer (sammanfattning, QA, fixar)**: [Kommer snart]
-- **Export av videor med undertexter**: [Kommer snart]
-- **Katalogövervakning & auto-transkribering**: [Kommer snart]
-- **Transkribering i realtid**: [Kommer snart]
-- **Omtranskribering av segment**: [Kommer snart]
-- **Hantera presets**: [Kommer snart]
-- **Ordboksarbetsflöden**: [Kommer snart]
-- **Snapshot best practices**: [Kommer snart]
-- **Multi-projekthantering & sökning**: [Kommer snart]
-- **Exempel på helt automatiserade arbetsflöden**: [Kommer snart]
+- [FAQ & tips](../docs/faq-and-tips.md)
+- [Anpassade exportmallar](../docs/custom-export-templates.md)
+- [LLM-integrationer (sammanfattning, QA, fixar)](../docs/llm-integrations.md)
+- [Export av videor med undertexter](../docs/exporting-subtitled-videos.md)
+- [Katalogövervakning & auto-transkribering](../docs/directory-monitoring.md)
+- [Transkribering i realtid](../docs/real-time-transcription.md)
+- [Omtranskribering av segment](../docs/segment-retranscription.md)
+- [Hantera presets](../docs/preset-management.md)
+- [Ordboksarbetsflöden](../docs/dictionary-workflows.md)
+- [Snapshot best practices](../docs/snapshot-best-practices.md)
+- [Multi-projekthantering & sökning](../docs/multi-project-management.md)
+- [Exempel på helt automatiserade arbetsflöden](../docs/fully-automated-workflows.md)
 
 ## 💬 Support & feedback
 - Skicka feedback via **About**-menyn i appen eller öppna ett issue på GitHub så kan vi följa framstegen tillsammans.

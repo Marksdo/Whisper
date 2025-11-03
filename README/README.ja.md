@@ -32,18 +32,18 @@
 - 高品質な監査ログが必要なサポート、営業、法務向け録音のコンプライアンス対応。
 
 ## 📋 上級リソースガイド
-- **FAQ & Tips**: [近日公開]
-- **カスタムエクスポートテンプレート**: [近日公開]
-- **LLM 連携（要約・QA・修正）**: [近日公開]
-- **字幕付き動画の書き出し**: [近日公開]
-- **ディレクトリ監視 & 自動文字起こし**: [近日公開]
-- **リアルタイム文字起こし**: [近日公開]
-- **セグメント再文字起こし**: [近日公開]
-- **プリセット管理**: [近日公開]
-- **辞書ワークフロー**: [近日公開]
-- **スナップショット活用ベストプラクティス**: [近日公開]
-- **マルチプロジェクト管理 & 検索**: [近日公開]
-- **完全自動ワークフロー事例**: [近日公開]
+- [FAQ & Tips](../docs/faq-and-tips.md)
+- [カスタムエクスポートテンプレート](../docs/custom-export-templates.md)
+- [LLM 連携（要約・QA・修正）](../docs/llm-integrations.md)
+- [字幕付き動画の書き出し](../docs/exporting-subtitled-videos.md)
+- [ディレクトリ監視 & 自動文字起こし](../docs/directory-monitoring.md)
+- [リアルタイム文字起こし](../docs/real-time-transcription.md)
+- [セグメント再文字起こし](../docs/segment-retranscription.md)
+- [プリセット管理](../docs/preset-management.md)
+- [辞書ワークフロー](../docs/dictionary-workflows.md)
+- [スナップショット活用ベストプラクティス](../docs/snapshot-best-practices.md)
+- [マルチプロジェクト管理 & 検索](../docs/multi-project-management.md)
+- [完全自動ワークフロー事例](../docs/fully-automated-workflows.md)
 
 ## 💬 サポート & フィードバック
 - アプリ内の **About** メニューからフィードバックを送るか、GitHub で Issue を作成して進捗を一緒に追跡してください。

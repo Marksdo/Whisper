@@ -32,18 +32,18 @@
 - 고품질 감사 로그가 필요한 고객 지원, 영업, 법률 녹음의 컴플라이언스 충족.
 
 ## 📋 고급 리소스 가이드
-- **FAQ & 팁**: [곧 제공 예정]
-- **사용자 정의 내보내기 템플릿**: [곧 제공 예정]
-- **LLM 통합(요약, QA, 수정)**: [곧 제공 예정]
-- **자막 삽입 영상 내보내기**: [곧 제공 예정]
-- **디렉터리 모니터링 & 자동 전사**: [곧 제공 예정]
-- **실시간 전사**: [곧 제공 예정]
-- **세그먼트 재전사**: [곧 제공 예정]
-- **프리셋 관리**: [곧 제공 예정]
-- **사전 워크플로우**: [곧 제공 예정]
-- **스냅샷 모범 사례**: [곧 제공 예정]
-- **멀티 프로젝트 관리 & 검색**: [곧 제공 예정]
-- **완전 자동화 워크플로우 예시**: [곧 제공 예정]
+- [FAQ & 팁](../docs/faq-and-tips.md)
+- [사용자 정의 내보내기 템플릿](../docs/custom-export-templates.md)
+- [LLM 통합(요약, QA, 수정)](../docs/llm-integrations.md)
+- [자막 삽입 영상 내보내기](../docs/exporting-subtitled-videos.md)
+- [디렉터리 모니터링 & 자동 전사](../docs/directory-monitoring.md)
+- [실시간 전사](../docs/real-time-transcription.md)
+- [세그먼트 재전사](../docs/segment-retranscription.md)
+- [프리셋 관리](../docs/preset-management.md)
+- [사전 워크플로우](../docs/dictionary-workflows.md)
+- [스냅샷 모범 사례](../docs/snapshot-best-practices.md)
+- [멀티 프로젝트 관리 & 검색](../docs/multi-project-management.md)
+- [완전 자동화 워크플로우 예시](../docs/fully-automated-workflows.md)
 
 ## 💬 지원 & 피드백
 - 앱 내 **About** 메뉴에서 피드백을 보내거나 GitHub에 이슈를 등록해 함께 진행 상황을 추적해주세요.

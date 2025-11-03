@@ -32,18 +32,18 @@
 - Klantenservice-, sales- of juridische opnames die voldoen aan complianceregelgeving met hoogwaardige audittrails.
 
 ## 📋 Geavanceerde bronnen
-- **FAQ & tips**: [Binnenkort beschikbaar]
-- **Aangepaste exporttemplates**: [Binnenkort beschikbaar]
-- **LLM-integraties (samenvattingen, QA, fixes)**: [Binnenkort beschikbaar]
-- **Video’s met ondertitels exporteren**: [Binnenkort beschikbaar]
-- **Mapbewaking & automatische transcriptie**: [Binnenkort beschikbaar]
-- **Realtime transcriptie**: [Binnenkort beschikbaar]
-- **Segmenten hertranscriberen**: [Binnenkort beschikbaar]
-- **Presetbeheer**: [Binnenkort beschikbaar]
-- **Woordenlijst-workflows**: [Binnenkort beschikbaar]
-- **Snapshot best practices**: [Binnenkort beschikbaar]
-- **Multiprojectbeheer & zoeken**: [Binnenkort beschikbaar]
-- **Volledig geautomatiseerde workflowvoorbeelden**: [Binnenkort beschikbaar]
+- [FAQ & tips](../docs/faq-and-tips.md)
+- [Aangepaste exporttemplates](../docs/custom-export-templates.md)
+- [LLM-integraties (samenvattingen, QA, fixes)](../docs/llm-integrations.md)
+- [Video’s met ondertitels exporteren](../docs/exporting-subtitled-videos.md)
+- [Mapbewaking & automatische transcriptie](../docs/directory-monitoring.md)
+- [Realtime transcriptie](../docs/real-time-transcription.md)
+- [Segmenten hertranscriberen](../docs/segment-retranscription.md)
+- [Presetbeheer](../docs/preset-management.md)
+- [Woordenlijst-workflows](../docs/dictionary-workflows.md)
+- [Snapshot best practices](../docs/snapshot-best-practices.md)
+- [Multiprojectbeheer & zoeken](../docs/multi-project-management.md)
+- [Volledig geautomatiseerde workflowvoorbeelden](../docs/fully-automated-workflows.md)
 
 ## 💬 Support & feedback
 - Stuur feedback via het **About**-menu in de app of open een issue op GitHub zodat we de voortgang samen kunnen volgen.

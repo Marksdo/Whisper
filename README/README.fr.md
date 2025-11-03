@@ -32,18 +32,18 @@
 - Enregistrements support clients, ventes ou juridiques conformes avec traçabilité de haute qualité.
 
 ## 📋 Guide de ressources avancées
-- **FAQ & astuces** : [Bientôt disponible]
-- **Modèles d’export personnalisés**: [Bientôt disponible]
-- **Intégrations LLM (résumés, QA, corrections)** : [Bientôt disponible]
-- **Export de vidéos sous-titrées** : [Bientôt disponible]
-- **Surveillance de répertoires & auto-transcription** : [Bientôt disponible]
-- **Transcription en temps réel** : [Bientôt disponible]
-- **Retranscription de segments** : [Bientôt disponible]
-- **Gestion des presets** : [Bientôt disponible]
-- **Workflows dictionnaires** : [Bientôt disponible]
-- **Bonnes pratiques snapshots** : [Bientôt disponible]
-- **Gestion multi-projets & recherche** : [Bientôt disponible]
-- **Exemples de workflows entièrement automatisés** : [Bientôt disponible]
+- [FAQ & astuces](../docs/faq-and-tips.md)
+- [Modèles d’export personnalisés](../docs/custom-export-templates.md)
+- [Intégrations LLM (résumés, QA, corrections)](../docs/llm-integrations.md)
+- [Export de vidéos sous-titrées](../docs/exporting-subtitled-videos.md)
+- [Surveillance de répertoires & auto-transcription](../docs/directory-monitoring.md)
+- [Transcription en temps réel](../docs/real-time-transcription.md)
+- [Retranscription de segments](../docs/segment-retranscription.md)
+- [Gestion des presets](../docs/preset-management.md)
+- [Workflows dictionnaires](../docs/dictionary-workflows.md)
+- [Bonnes pratiques snapshots](../docs/snapshot-best-practices.md)
+- [Gestion multi-projets & recherche](../docs/multi-project-management.md)
+- [Exemples de workflows entièrement automatisés](../docs/fully-automated-workflows.md)
 
 ## 💬 Support & retours
 - Envoie-nous ton feedback via le menu **About** de l’app ou ouvre un issue sur GitHub pour suivre les avancées ensemble.

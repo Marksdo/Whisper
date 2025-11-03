@@ -32,18 +32,18 @@
 - 满足合规要求的客服、销售或法律录音，提供高质量审计追踪。
 
 ## 📋 高阶资源指南
-- **FAQ 与技巧**：[即将推出]
-- **自定义导出模板**：[即将推出]
-- **LLM 集成（总结、QA、修复）**：[即将推出]
-- **字幕视频导出**：[即将推出]
-- **目录监控与自动转录**：[即将推出]
-- **实时转录**：[即将推出]
-- **片段重转录**：[即将推出]
-- **预设管理**：[即将推出]
-- **词典工作流**：[即将推出]
-- **快照最佳实践**：[即将推出]
-- **多项目管理与检索**：[即将推出]
-- **全自动化工作流示例**：[即将推出]
+- [FAQ 与技巧](../docs/faq-and-tips.md)
+- [自定义导出模板](../docs/custom-export-templates.md)
+- [LLM 集成（总结、QA、修复）](../docs/llm-integrations.md)
+- [字幕视频导出](../docs/exporting-subtitled-videos.md)
+- [目录监控与自动转录](../docs/directory-monitoring.md)
+- [实时转录](../docs/real-time-transcription.md)
+- [片段重转录](../docs/segment-retranscription.md)
+- [预设管理](../docs/preset-management.md)
+- [词典工作流](../docs/dictionary-workflows.md)
+- [快照最佳实践](../docs/snapshot-best-practices.md)
+- [多项目管理与检索](../docs/multi-project-management.md)
+- [全自动化工作流示例](../docs/fully-automated-workflows.md)
 
 ## 💬 支持与反馈
 - 通过应用内 **About** 菜单发送反馈，或在 GitHub 上提交 issue，与我们共同跟进进展。

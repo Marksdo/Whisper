@@ -32,18 +32,18 @@
 - Yüksek kaliteli denetim izleriyle uyumluluk gerektiren müşteri destek, satış veya hukuk kayıtları.
 
 ## 📋 Gelişmiş kaynak rehberi
-- **SSS & ipuçları**: [Yakında]
-- **Özel dışa aktarma şablonları**: [Yakında]
-- **LLM entegrasyonları (özet, QA, düzeltmeler)**: [Yakında]
-- **Altyazılı video dışa aktarma**: [Yakında]
-- **Dizin izleme & otomatik transkripsiyon**: [Yakında]
-- **Gerçek zamanlı transkripsiyon**: [Yakında]
-- **Segment yeniden transkripsiyonu**: [Yakında]
-- **Ön ayar yönetimi**: [Yakında]
-- **Sözlük iş akışları**: [Yakında]
-- **Snapshot en iyi uygulamaları**: [Yakında]
-- **Çoklu proje yönetimi & arama**: [Yakında]
-- **Tam otomatik iş akışı örnekleri**: [Yakında]
+- [SSS & ipuçları](../docs/faq-and-tips.md)
+- [Özel dışa aktarma şablonları](../docs/custom-export-templates.md)
+- [LLM entegrasyonları (özet, QA, düzeltmeler)](../docs/llm-integrations.md)
+- [Altyazılı video dışa aktarma](../docs/exporting-subtitled-videos.md)
+- [Dizin izleme & otomatik transkripsiyon](../docs/directory-monitoring.md)
+- [Gerçek zamanlı transkripsiyon](../docs/real-time-transcription.md)
+- [Segment yeniden transkripsiyonu](../docs/segment-retranscription.md)
+- [Ön ayar yönetimi](../docs/preset-management.md)
+- [Sözlük iş akışları](../docs/dictionary-workflows.md)
+- [Snapshot en iyi uygulamaları](../docs/snapshot-best-practices.md)
+- [Çoklu proje yönetimi & arama](../docs/multi-project-management.md)
+- [Tam otomatik iş akışı örnekleri](../docs/fully-automated-workflows.md)
 
 ## 💬 Destek & geri bildirim
 - Uygulama içindeki **About** menüsünden geri bildirim gönderin veya GitHub’da bir issue açarak ilerlemeyi birlikte takip edelim.

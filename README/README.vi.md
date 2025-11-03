@@ -32,18 +32,18 @@
 - Ghi âm hỗ trợ khách hàng, bán hàng hoặc pháp lý đáp ứng yêu cầu tuân thủ với audit trail chất lượng cao.
 
 ## 📋 Cẩm nang tài nguyên nâng cao
-- **FAQ & mẹo**: [Sắp có]
-- **Template xuất bản tùy chỉnh**: [Sắp có]
-- **Tích hợp LLM (tóm tắt, QA, sửa lỗi)**: [Sắp có]
-- **Xuất video kèm phụ đề**: [Sắp có]
-- **Giám sát thư mục & tự động chuyển lời**: [Sắp có]
-- **Chuyển lời thời gian thực**: [Sắp có]
-- **Chuyển lời lại theo đoạn**: [Sắp có]
-- **Quản lý preset**: [Sắp có]
-- **Workflow với từ điển**: [Sắp có]
-- **Thực hành tốt nhất về snapshot**: [Sắp có]
-- **Quản lý đa dự án & tìm kiếm**: [Sắp có]
-- **Ví dụ workflow tự động hoàn toàn**: [Sắp có]
+- [FAQ & mẹo](../docs/faq-and-tips.md)
+- [Template xuất bản tùy chỉnh](../docs/custom-export-templates.md)
+- [Tích hợp LLM (tóm tắt, QA, sửa lỗi)](../docs/llm-integrations.md)
+- [Xuất video kèm phụ đề](../docs/exporting-subtitled-videos.md)
+- [Giám sát thư mục & tự động chuyển lời](../docs/directory-monitoring.md)
+- [Chuyển lời thời gian thực](../docs/real-time-transcription.md)
+- [Chuyển lời lại theo đoạn](../docs/segment-retranscription.md)
+- [Quản lý preset](../docs/preset-management.md)
+- [Workflow với từ điển](../docs/dictionary-workflows.md)
+- [Thực hành tốt nhất về snapshot](../docs/snapshot-best-practices.md)
+- [Quản lý đa dự án & tìm kiếm](../docs/multi-project-management.md)
+- [Ví dụ workflow tự động hoàn toàn](../docs/fully-automated-workflows.md)
 
 ## 💬 Hỗ trợ & phản hồi
 - Gửi phản hồi qua menu **About** trong ứng dụng hoặc mở issue trên GitHub để chúng ta cùng theo dõi tiến độ.

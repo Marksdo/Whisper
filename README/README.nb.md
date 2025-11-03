@@ -32,18 +32,18 @@
 - Kundestøtte-, salgs- eller juridiske opptak som krever etterlevelse med høykvalitets revisjonsspor.
 
 ## 📋 Utvidet ressursguide
-- **FAQ & tips**: [Kommer snart]
-- **Egendefinerte eksportmaler**: [Kommer snart]
-- **LLM-integrasjoner (sammendrag, QA, rettelser)**: [Kommer snart]
-- **Eksport av video med undertekster**: [Kommer snart]
-- **Katalogovervåkning & automatisk transkripsjon**: [Kommer snart]
-- **Direktetranskripsjon**: [Kommer snart]
-- **Segmentretranskripsjon**: [Kommer snart]
-- **Forhåndsinnstillingsstyring**: [Kommer snart]
-- **Ordbokarbeidsflyter**: [Kommer snart]
-- **Snapshot best practices**: [Kommer snart]
-- **Flerprosjektstyring & søk**: [Kommer snart]
-- **Eksempler på helautomatiserte arbeidsflyter**: [Kommer snart]
+- [FAQ & tips](../docs/faq-and-tips.md)
+- [Egendefinerte eksportmaler](../docs/custom-export-templates.md)
+- [LLM-integrasjoner (sammendrag, QA, rettelser)](../docs/llm-integrations.md)
+- [Eksport av video med undertekster](../docs/exporting-subtitled-videos.md)
+- [Katalogovervåkning & automatisk transkripsjon](../docs/directory-monitoring.md)
+- [Direktetranskripsjon](../docs/real-time-transcription.md)
+- [Segmentretranskripsjon](../docs/segment-retranscription.md)
+- [Forhåndsinnstillingsstyring](../docs/preset-management.md)
+- [Ordbokarbeidsflyter](../docs/dictionary-workflows.md)
+- [Snapshot best practices](../docs/snapshot-best-practices.md)
+- [Flerprosjektstyring & søk](../docs/multi-project-management.md)
+- [Eksempler på helautomatiserte arbeidsflyter](../docs/fully-automated-workflows.md)
 
 ## 💬 Support & tilbakemeldinger
 - Send tilbakemelding via **About**-menyen i appen eller opprett en sak på GitHub slik at vi kan følge fremdriften sammen.

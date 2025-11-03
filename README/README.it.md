@@ -32,18 +32,18 @@
 - Registrazioni di supporto clienti, vendite o ambito legale conformi e con tracciabilità di alta qualità.
 
 ## 📋 Guida avanzata alle risorse
-- **FAQ & suggerimenti**: [In arrivo]
-- **Template di export personalizzati**: [In arrivo]
-- **Integrazioni LLM (riassunti, QA, correzioni)**: [In arrivo]
-- **Esportazione di video sottotitolati**: [In arrivo]
-- **Monitoraggio directory & auto-trascrizione**: [In arrivo]
-- **Trascrizione in tempo reale**: [In arrivo]
-- **Ritrascrizione segmenti**: [In arrivo]
-- **Gestione preset**: [In arrivo]
-- **Workflow con dizionari**: [In arrivo]
-- **Best practice per snapshot**: [In arrivo]
-- **Gestione multi-progetto & ricerca**: [In arrivo]
-- **Esempi di workflow completamente automatizzati**: [In arrivo]
+- [FAQ & suggerimenti](../docs/faq-and-tips.md)
+- [Template di export personalizzati](../docs/custom-export-templates.md)
+- [Integrazioni LLM (riassunti, QA, correzioni)](../docs/llm-integrations.md)
+- [Esportazione di video sottotitolati](../docs/exporting-subtitled-videos.md)
+- [Monitoraggio directory & auto-trascrizione](../docs/directory-monitoring.md)
+- [Trascrizione in tempo reale](../docs/real-time-transcription.md)
+- [Ritrascrizione segmenti](../docs/segment-retranscription.md)
+- [Gestione preset](../docs/preset-management.md)
+- [Workflow con dizionari](../docs/dictionary-workflows.md)
+- [Best practice per snapshot](../docs/snapshot-best-practices.md)
+- [Gestione multi-progetto & ricerca](../docs/multi-project-management.md)
+- [Esempi di workflow completamente automatizzati](../docs/fully-automated-workflows.md)
 
 ## 💬 Supporto & feedback
 - Invia feedback dal menu **About** nell’app o apri un issue su GitHub per seguire insieme i progressi.

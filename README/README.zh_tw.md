@@ -32,18 +32,18 @@
 - 客服、銷售或法務錄音符合稽核需求並保留高品質追蹤。
 
 ## 📋 進階資源指南
-- **FAQ 與技巧**：[即將推出]
-- **自訂匯出範本**：[即將推出]
-- **LLM 整合（摘要、QA、修復）**：[即將推出]
-- **字幕影片輸出**：[即將推出]
-- **目錄監控與自動轉錄**：[即將推出]
-- **即時轉錄**：[即將推出]
-- **片段重新轉錄**：[即將推出]
-- **預設管理**：[即將推出]
-- **字典工作流程**：[即將推出]
-- **快照最佳實務**：[即將推出]
-- **多專案管理與搜尋**：[即將推出]
-- **全自動化流程範例**：[即將推出]
+- [FAQ 與技巧](../docs/faq-and-tips.md)
+- [自訂匯出範本](../docs/custom-export-templates.md)
+- [LLM 整合（摘要、QA、修復）](../docs/llm-integrations.md)
+- [字幕影片輸出](../docs/exporting-subtitled-videos.md)
+- [目錄監控與自動轉錄](../docs/directory-monitoring.md)
+- [即時轉錄](../docs/real-time-transcription.md)
+- [片段重新轉錄](../docs/segment-retranscription.md)
+- [預設管理](../docs/preset-management.md)
+- [字典工作流程](../docs/dictionary-workflows.md)
+- [快照最佳實務](../docs/snapshot-best-practices.md)
+- [多專案管理與搜尋](../docs/multi-project-management.md)
+- [全自動化流程範例](../docs/fully-automated-workflows.md)
 
 ## 💬 支援與回饋
 - 請透過應用程式內的 **About** 選單提供回饋，或在 GitHub 開 Issue 與我們共同追蹤進度。
