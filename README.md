@@ -71,10 +71,6 @@
 
 <p align="center">
   <a href="https://fluidinference.com"><img src="https://assets.inference.plus/fi-badge.png" alt="Powered by Fluid Inference" height="80"></a>
-
-
   <a href="https://github.com/ggerganov/whisper.cpp" style="margin-left: 16px;"><img src="https://user-images.githubusercontent.com/1991296/235238348-05d0f6a4-da44-4900-a1de-d0707e75b763.jpeg" alt="Powered by whisper.cpp" height="80"></a>
-
-
   <a href="https://github.com/argmaxinc/WhisperKit" style="margin-left: 16px;"><img src="images/vender/whisperkit.png" alt="Powered by WhisperKit" height="80"></a>
 </p>
