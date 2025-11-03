@@ -6,7 +6,7 @@
 
 
 
-## Key Advantages
+## 🔑 Key Advantages
 - **Privacy by design**: Transcription, translation, and export run entirely on-device; sensitive media never leaves your machine.
 - **Choose the best engine**: Switch among FluidAudio, whisper.cpp, WhisperKit, Apple’s on-device AI (macOS 26+), and Kokoro English speech synthesis for voice-over work.
 - **Live production workflow**: Monitor recordings, subtitles, translations, floating previews, and automation chains in real time.
@@ -15,7 +15,7 @@
 - **Purpose-built subtitle desk**: Manage editing, review, batch export/import, and Final Cut Pro / QuickLook / GIF / MKV pipelines in one place.
 
 
-## Core Capabilities
+## 🔥 Core Capabilities
 - **Batch + live transcription**: Handle bulk assets, live microphone capture, app audio routing, and simultaneous translation.
 - **Subtitle & translation editor**: Merge, split, retime, quick-cut, mass replace, and drive the entire project through keyboard-first controls.
 - **Multilingual translation**: Use DeepL, Apple Translate, GPT, Gemini, DeepSeek, OpenRouter, or local Ollama-compatible LLMs.
@@ -27,7 +27,7 @@
 - **Video post-production**: Quick Cut waveform editing, chapter authoring, scene keyframes, GIF/MP4 exports, and hard-subtitle encoding.
 
 
-## Use Cases
+## 🚀 Use Cases
 - Film, podcast, and interview subtitling, translation, and voice-over production.
 - Real-time notes and summaries for meetings, courses, or live streams.
 - Media teams processing multilingual batches with automation-driven turnaround.
@@ -36,7 +36,7 @@
 - Compliance-ready customer support, sales, or legal recordings with high-quality audit trails.
 
 
-## Advanced Resource Guide
+## 📋 Advanced Resource Guide
 - **FAQ & tips**: [Coming soon]
 - **Custom export templates**: [Coming soon]
 - **LLM integrations (summaries, QA, fixes)**: [Coming soon]
@@ -51,11 +51,11 @@
 - **Fully automated workflow examples**: [Coming soon]
 
 
-## Support & Feedback
+## 💬 Support & Feedback
 - Use the in-app **About** menu to send feedback or open an issue on GitHub so we can track progress together.
 
 
-## App Screens
+## 🏞️ App Screens
 ![Projects](images/v9-whispermate_main.webp)
 ![Subtitle Editor](images/v9-sub-editor.webp)
 ![Live Transcription](images/v9-live-video-transcription.webp)
@@ -63,7 +63,7 @@
 ![Re-transcription](images/v9-retranscription.webp)
 ![Custom Export Template](images/v9-custom-template.webp)
 
-## Thanks to These Outstanding Open-Source Projects
+## 🔋 Thanks to These Outstanding Open-Source Projects
 
 - [![GitHub stars](https://img.shields.io/github/stars/FluidInference/FluidAudio.svg?style=social&label=Star%20FluidAudio)](https://github.com/FluidInference/FluidAudio)
 - [![GitHub stars](https://img.shields.io/github/stars/argmaxinc/WhisperKit.svg?style=social&label=Star%20WhisperKit)](https://github.com/argmaxinc/WhisperKit)
