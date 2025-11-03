@@ -31,7 +31,7 @@
 - 긴 영상을 쇼츠, GIF, 내레이션 클립으로 재가공하는 마케팅·소셜 팀.
 - 고품질 감사 로그가 필요한 고객 지원, 영업, 법률 녹음의 컴플라이언스 충족.
 
-## 📋 고급 리소스 가이드
+## 📋 문서
 - [FAQ & 팁](../docs/faq-and-tips.md)
 - [사용자 정의 내보내기 템플릿](../docs/custom-export-templates.md)
 - [LLM 통합(요약, QA, 수정)](../docs/llm-integrations.md)

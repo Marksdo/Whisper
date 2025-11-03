@@ -31,7 +31,7 @@
 - Tim pemasaran dan sosial yang mengemas ulang video panjang menjadi shorts, GIF, atau klip bersuara.
 - Rekaman dukungan pelanggan, penjualan, atau hukum yang patuh dengan jejak audit berkualitas tinggi.
 
-## 📋 Panduan sumber daya lanjutan
+## 📋 Dokumentasi
 - [FAQ & tips](../docs/faq-and-tips.md)
 - [Templat ekspor kustom](../docs/custom-export-templates.md)
 - [Integrasi LLM (ringkasan, QA, perbaikan)](../docs/llm-integrations.md)

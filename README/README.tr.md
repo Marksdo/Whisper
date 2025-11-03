@@ -31,7 +31,7 @@
 - Uzun videoları kısa videolara, GIF’lere veya anlatımlı kliplere dönüştüren pazarlama ve sosyal ekipler.
 - Yüksek kaliteli denetim izleriyle uyumluluk gerektiren müşteri destek, satış veya hukuk kayıtları.
 
-## 📋 Gelişmiş kaynak rehberi
+## 📋 Dokümantasyon
 - [SSS & ipuçları](../docs/faq-and-tips.md)
 - [Özel dışa aktarma şablonları](../docs/custom-export-templates.md)
 - [LLM entegrasyonları (özet, QA, düzeltmeler)](../docs/llm-integrations.md)

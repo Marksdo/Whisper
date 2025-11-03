@@ -31,7 +31,7 @@
 - Zespoły marketingowe i social media adaptujące długie wideo do shortów, GIF-ów lub klipów z narracją.
 - Nagrania wsparcia klienta, sprzedaży czy prawne spełniające wymogi compliance z wysokiej jakości ścieżką audytu.
 
-## 📋 Zaawansowany przewodnik po zasobach
+## 📋 Dokumentacja
 - [FAQ i wskazówki](../docs/faq-and-tips.md)
 - [Niestandardowe szablony eksportu](../docs/custom-export-templates.md)
 - [Integracje LLM (streszczenia, QA, poprawki)](../docs/llm-integrations.md)

@@ -31,7 +31,7 @@
 - Equipas de marketing e social que transformam vídeos longos em shorts, GIFs ou clipes narrados.
 - Gravações de suporte, vendas ou jurídicas em conformidade com trilhos de auditoria de alta qualidade.
 
-## 📋 Guia avançado de recursos
+## 📋 Documentação
 - [FAQ & dicas](../docs/faq-and-tips.md)
 - [Templates de exportação personalizados](../docs/custom-export-templates.md)
 - [Integrações LLM (resumos, QA, correções)](../docs/llm-integrations.md)

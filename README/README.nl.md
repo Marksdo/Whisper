@@ -31,7 +31,7 @@
 - Marketing- en social-teams die long-form video omzetten naar shorts, GIF’s of ingesproken clips.
 - Klantenservice-, sales- of juridische opnames die voldoen aan complianceregelgeving met hoogwaardige audittrails.
 
-## 📋 Geavanceerde bronnen
+## 📋 Documentatie
 - [FAQ & tips](../docs/faq-and-tips.md)
 - [Aangepaste exporttemplates](../docs/custom-export-templates.md)
 - [LLM-integraties (samenvattingen, QA, fixes)](../docs/llm-integrations.md)

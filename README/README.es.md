@@ -31,7 +31,7 @@
 - Equipos de marketing y redes que reutilizan videos largos como shorts, GIFs o clips narrados.
 - Grabaciones de soporte, ventas o ámbito legal listas para cumplimiento con trazas de auditoría de alta calidad.
 
-## 📋 Guía avanzada de recursos
+## 📋 Documentos
 - [FAQ y consejos](../docs/faq-and-tips.md)
 - [Plantillas de exportación personalizadas](../docs/custom-export-templates.md)
 - [Integraciones LLM (resúmenes, QA, correcciones)](../docs/llm-integrations.md)

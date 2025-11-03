@@ -31,7 +31,7 @@
 - Marketing- und Social-Teams verwandeln Langform-Videos in Shorts, GIFs oder vertonte Clips.
 - Compliance-fähige Kundenservice-, Vertriebs- oder Rechtsaufnahmen mit hochwertigen Audit-Trails.
 
-## 📋 Erweiterter Ressourcenleitfaden
+## 📋 Dokumentation
 - [FAQ & Tipps](../docs/faq-and-tips.md)
 - [Vorlagen für benutzerdefinierte Exporte](../docs/custom-export-templates.md)
 - [LLM-Integrationen (Zusammenfassungen, QA, Fixes)](../docs/llm-integrations.md)

@@ -31,7 +31,7 @@
 - Marknads- och socialteam som återanvänder långformatvideo till shorts, GIF:ar eller berättarröster.
 - Kundsupport-, sälj- eller juridikinspelningar som kräver efterlevnad och revisionsspår av hög kvalitet.
 
-## 📋 Avancerad resursguide
+## 📋 Dokumentation
 - [FAQ & tips](../docs/faq-and-tips.md)
 - [Anpassade exportmallar](../docs/custom-export-templates.md)
 - [LLM-integrationer (sammanfattning, QA, fixar)](../docs/llm-integrations.md)

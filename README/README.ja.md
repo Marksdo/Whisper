@@ -31,7 +31,7 @@
 - 長尺動画をショート、GIF、ナレーション付きクリップへ再構成するマーケ/ソーシャルチーム。
 - 高品質な監査ログが必要なサポート、営業、法務向け録音のコンプライアンス対応。
 
-## 📋 上級リソースガイド
+## 📋 ドキュメント
 - [FAQ & Tips](../docs/faq-and-tips.md)
 - [カスタムエクスポートテンプレート](../docs/custom-export-templates.md)
 - [LLM 連携（要約・QA・修正）](../docs/llm-integrations.md)

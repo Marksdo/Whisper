@@ -31,7 +31,7 @@
 - Đội marketing và mạng xã hội tái sử dụng video dài thành shorts, GIF hoặc clip thuyết minh.
 - Ghi âm hỗ trợ khách hàng, bán hàng hoặc pháp lý đáp ứng yêu cầu tuân thủ với audit trail chất lượng cao.
 
-## 📋 Cẩm nang tài nguyên nâng cao
+## 📋 Tài liệu
 - [FAQ & mẹo](../docs/faq-and-tips.md)
 - [Template xuất bản tùy chỉnh](../docs/custom-export-templates.md)
 - [Tích hợp LLM (tóm tắt, QA, sửa lỗi)](../docs/llm-integrations.md)

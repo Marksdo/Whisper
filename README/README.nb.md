@@ -31,7 +31,7 @@
 - Markedsførings- og sosiale medier-team som gjør om langformatvideoer til shorts, GIF-er eller fortellerklipp.
 - Kundestøtte-, salgs- eller juridiske opptak som krever etterlevelse med høykvalitets revisjonsspor.
 
-## 📋 Utvidet ressursguide
+## 📋 Dokumentasjon
 - [FAQ & tips](../docs/faq-and-tips.md)
 - [Egendefinerte eksportmaler](../docs/custom-export-templates.md)
 - [LLM-integrasjoner (sammendrag, QA, rettelser)](../docs/llm-integrations.md)

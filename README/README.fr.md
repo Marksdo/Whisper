@@ -31,7 +31,7 @@
 - Équipes marketing et social media transformant des vidéos longues en shorts, GIF ou clips narrés.
 - Enregistrements support clients, ventes ou juridiques conformes avec traçabilité de haute qualité.
 
-## 📋 Guide de ressources avancées
+## 📋 Documentation
 - [FAQ & astuces](../docs/faq-and-tips.md)
 - [Modèles d’export personnalisés](../docs/custom-export-templates.md)
 - [Intégrations LLM (résumés, QA, corrections)](../docs/llm-integrations.md)

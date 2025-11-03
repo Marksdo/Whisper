@@ -31,7 +31,7 @@
 - 行銷與社群團隊將長影片重製成 Shorts、GIF 或旁白剪輯。
 - 客服、銷售或法務錄音符合稽核需求並保留高品質追蹤。
 
-## 📋 進階資源指南
+## 📋 文檔
 - [FAQ 與技巧](../docs/faq-and-tips.md)
 - [自訂匯出範本](../docs/custom-export-templates.md)
 - [LLM 整合（摘要、QA、修復）](../docs/llm-integrations.md)

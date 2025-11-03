@@ -31,7 +31,7 @@
 - 市场与社媒团队将长视频重制为短视频、GIF 或配音剪辑。
 - 满足合规要求的客服、销售或法律录音，提供高质量审计追踪。
 
-## 📋 高阶资源指南
+## 📋 文档
 - [FAQ 与技巧](../docs/faq-and-tips.md)
 - [自定义导出模板](../docs/custom-export-templates.md)
 - [LLM 集成（总结、QA、修复）](../docs/llm-integrations.md)

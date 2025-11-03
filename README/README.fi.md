@@ -31,7 +31,7 @@
 - Markkinointi- ja some-tiimit muuntavat pitkämuotoiset videot shortseiksi, GIFeiksi tai selostetuiksi klippeiksi.
 - Sääntelyä noudattava asiakastuki, myynti tai oikeudelliset tallenteet korkealaatuisilla auditointijäljillä.
 
-## 📋 Laajennettu resurssiopas
+## 📋 Dokumentaatio
 - [UKK ja vinkit](../docs/faq-and-tips.md)
 - [Mukautetut vientimallit](../docs/custom-export-templates.md)
 - [LLM-integraatiot (tiivistelmät, QA, korjaukset)](../docs/llm-integrations.md)
