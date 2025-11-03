@@ -1,9 +1,9 @@
-# Whisper Mate
+# 🎶 Whisper Mate – Local-First Captioning & Speech Workspace
 [Deutsch](README.de.md) · [English](README.md) · [Spanish](README.es.md) · [Finnish](README.fi.md) · [French](README.fr.md) · [Italian](README.it.md) · [Indonesian](README.id.md) · [언어](README.ko.md) · [日本語](README.ja.md) · [简体中文](README.zh_cn.md) · [繁体中文](README.zh_tw.md) · [Norwegian](README.nb.md) · [Dutch](README.nl.md) · [Polish](README.pl.md) · [Portuguese](README.pt_PT.md) · [Swedish](README.sv.md) · [ภาษาไทย](README.th.md) · [Turkish](README.tr.md) · [Ukrainian](README.uk.md) · [Vietnamese](README.vi.md)
 
-# 🎶 Whisper Mate – Local-First Captioning & Speech Workspace
 | ![Whisper Mate icon](images/appicon-128x128.png) | Whisper Mate turns audio and video into polished subtitles, translations, and exports—all processed on your Mac to keep every project private. Download on the macOS App Store  [Whisper Mate](https://apps.apple.com/us/app/id6450404233)|
 | --- | --- |
+
 
 
 ## Key Advantages
@@ -13,6 +13,7 @@
 - **What-you-see previews**: Inspect subtitle typography inside the built-in player with responsive font sizing and line spacing controls.
 - **Extensible tooling**: Combine templates, JavaScript processors, dictionaries, and regex transforms to automate complex subtitle cleanup.
 - **Purpose-built subtitle desk**: Manage editing, review, batch export/import, and Final Cut Pro / QuickLook / GIF / MKV pipelines in one place.
+
 
 ## Core Capabilities
 - **Batch + live transcription**: Handle bulk assets, live microphone capture, app audio routing, and simultaneous translation.
@@ -25,6 +26,7 @@
 - **Project control & snapshots**: Group projects, prioritise queues, capture reversible snapshots, archive safely, and monitor remote folders.
 - **Video post-production**: Quick Cut waveform editing, chapter authoring, scene keyframes, GIF/MP4 exports, and hard-subtitle encoding.
 
+
 ## Use Cases
 - Film, podcast, and interview subtitling, translation, and voice-over production.
 - Real-time notes and summaries for meetings, courses, or live streams.
@@ -32,6 +34,7 @@
 - Academic or research teams archiving and annotating speech corpora with snapshots.
 - Marketing and social teams repurposing long-form videos into shorts, GIFs, or narrated clips.
 - Compliance-ready customer support, sales, or legal recordings with high-quality audit trails.
+
 
 ## Advanced Resource Guide
 - **FAQ & tips**: [Coming soon]
@@ -47,11 +50,18 @@
 - **Multi-project management & search**: [Coming soon]
 - **Fully automated workflow examples**: [Coming soon]
 
+
 ## Support & Feedback
 - Use the in-app **About** menu to send feedback or open an issue on GitHub so we can track progress together.
 
+
 ## App Screens
-![Whisper Mate icon](images/v9-whispermate_main.webp)
+![Projects](images/v9-whispermate_main.webp)
+![Subtitle Editor](images/v9-sub-editor.webp)
+![Live Transcription](images/v9-live-video-transcription.webp)
+![Embed Video Previewer](images/v9-floating.webp)
+![Re-transcription](images/v9-retranscription.webp)
+![Custom Export Template](images/v9-custom-template.webp)
 
 ## Thanks to These Outstanding Open-Source Projects
 
